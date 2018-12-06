@@ -1,7 +1,6 @@
 @charset "utf-8";
 @font-face {
   font-family: 'Roboto Slab', serif;
-  font-weight:500;
   font-style: normal;  
 }
 
@@ -9,7 +8,9 @@
       Styles
 */
 
-html {
+html {height: 100%;
+	font-size: 1vw;
+}
         
 body{
   
